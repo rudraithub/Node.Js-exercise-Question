@@ -1,0 +1,1 @@
+## 2501 - write a program for compress data using zlib module and also decompress data. 

@@ -1,0 +1,1 @@
+## 1501 - write all method of OS module and print data of all methods
